@@ -2,5 +2,11 @@
 using namespace std ;
 
 int main(){
-    cout<<"hellopw"<<endl<<"hellocw";
+    int n ;
+    cout<<"enter the number ";
+    cin>>n;
+    for(int i = 1 ;i<n ;i++){
+        cout<<"hello world \n";
+    }
+
 }
